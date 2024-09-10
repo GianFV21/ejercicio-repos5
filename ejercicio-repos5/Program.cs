@@ -12,6 +12,7 @@ namespace ejercicio_repos5
         {
             Double Num1, Num2;
             int i = 0;
+            int calculadora = 0;
             Double Suma = 0, Multi = 0, Div = 0;
             Console.WriteLine("Ingrese el numero 1: ");
             Num1 = Double.Parse(Console.ReadLine());
